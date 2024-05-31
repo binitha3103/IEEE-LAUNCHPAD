@@ -2,9 +2,6 @@
 
 ### I am a passionate B.Tech graduate with a love for coding and a relentless drive to learn new technologies. I am proficient in HTML, CSS, SQL, Python, MATLAB and C programming. As a hard-working and enthusiastic fresher with good listening, communication, and presentation skills, I am eager to apply my abilities in innovative and challenging environments. 
 
-> write about your self .................. (minimum 200 Characters)
-
-
 ## Portfolio Highlights
 
 ### My Projects
